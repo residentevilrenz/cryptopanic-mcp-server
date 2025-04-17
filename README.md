@@ -1,5 +1,8 @@
 # cryptopanic-mcp-server
 
+[![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
+![GitHub License](https://img.shields.io/github/license/kukapay/blockbeats-mcp)
+
 Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
 
 <a href="https://glama.ai/mcp/servers/dp6kztv7yx">
